@@ -1,0 +1,20 @@
+C:\Users\William King\Desktop\MarioBros\MarioBros\bin\Debug\MarioBros.exe
+C:\Users\William King\Desktop\MarioBros\MarioBros\bin\Debug\MarioBros.pdb
+C:\Users\William King\Desktop\MarioBros\MarioBros\bin\Debug\MarioBros.xml
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\MarioBros.Form1.resources
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\MarioBros.Resources.resources
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\MarioBros.exe
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\MarioBros.xml
+C:\Users\William King\Desktop\MarioBros\MarioBros\obj\x86\Debug\MarioBros.pdb
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\bin\Debug\MarioBros.exe
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\bin\Debug\MarioBros.pdb
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\bin\Debug\MarioBros.xml
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.Form1.resources
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.Resources.resources
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.vbproj.GenerateResource.Cache
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.exe
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.xml
+C:\Users\willi\Documents\Programming\RP4K\MarioBros\MarioBros\obj\x86\Debug\MarioBros.pdb
